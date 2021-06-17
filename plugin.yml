@@ -1,7 +1,7 @@
 name: MLGRush
 version: 1.1
 author: PrinxIsLeqit
-api: 3.21.0
+api: 3.0.0
 main: PrinxIsLeqit\MLGRush\MLGRush
 description: 'MLGRush'
 commands:
